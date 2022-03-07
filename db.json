@@ -1,0 +1,44 @@
+{
+  "productos": [
+    {
+      "nombre": "Jugo de Naranjas",
+      "precio": "290",
+      "id": 3
+    },
+    {
+      "nombre": "Rib Eye 800g",
+      "precio": "200",
+      "id": 4
+    },
+    {
+      "nombre": "Jugo de Fresa",
+      "precio": "200",
+      "id": 5
+    },
+    {
+      "nombre": "Rib Eye",
+      "precio": "1000",
+      "id": 6
+    },
+    {
+      "nombre": "Falda Deshuesada",
+      "precio": "1500",
+      "id": 7
+    },
+    {
+      "nombre": "Carne Molida",
+      "precio": "850",
+      "id": 8
+    },
+    {
+      "nombre": "Vacio",
+      "precio": "1500",
+      "id": 9
+    },
+    {
+      "nombre": "Entraña",
+      "precio": "670",
+      "id": 10
+    }
+  ]
+}
